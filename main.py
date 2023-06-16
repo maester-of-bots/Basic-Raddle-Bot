@@ -259,8 +259,8 @@ class SpaceJesus:
         submit_button = self.driver.find_element(By.CLASS_NAME, "button")
         submit_button.click()
 
-    def stream(self, sub, content_type):
-        self.urls['comments']
+    # def stream(self, sub, content_type):
+        # self.urls['comments']
 
 
 
